@@ -1,7 +1,9 @@
+import "./Footer.css";
+
 export default function Footer() {
   return (
-    <footer
-    > <p>bati punheta</p>
+    <footer className="footer">
+      <p>2025 — nosso timinho</p>
     </footer>
   );
 }

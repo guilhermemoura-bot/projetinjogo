@@ -1,0 +1,42 @@
+
+
+.footer {
+  width: 100%;
+  padding: 18px 0;
+  text-align: center;
+
+  background: #02fb446c; 
+  background: linear-gradient(90deg, #19e0376e, #00ff409c);
+
+  color: #00ff15; /* azul neon gamer */
+  font-family: 'Orbitron', sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+
+  position: fixed;
+  bottom: 0;
+  left: 0;
+
+  border-top: 2px solid #00ff84; /* linha neon */
+  box-shadow: 0 0 15px #00ff11aa, 0 -2px 20px #19c22455;
+
+  z-index: 9999;
+}
+
+.footer a {
+  color: #04a732;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer a:hover {
+  text-shadow: 0 0 8px #00ff04, 0 0 15px #00ff04;
+  color: white;
+}
+
+.footer-inner {
+  filter: drop-shadow(0 0 6px #00ff04aa);
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}

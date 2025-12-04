@@ -68,7 +68,7 @@ export default function OutraPagina() {
         </p>
 
         <p>
-          Após essa vitória, a floresta renasce: rios voltam a fluir, animais retornam e o equilíbrio é
+          Após essa vitória, a floresta renasce, os rios voltam a fluir, animais retornam e o equilíbrio é
           restaurado. Lya recebe o título de Guardiã da Floresta.
         </p>
       </div>
